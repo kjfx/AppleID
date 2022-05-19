@@ -1,4 +1,4 @@
-# 注册美区Apple ID 2021 方法
+# 注册美区Apple ID，美区apple id注册教学
 
 很多APP在国区 App Store 是搜索不到的，所以需要注册美国 Apple ID 账号。<br/>
 
