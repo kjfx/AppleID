@@ -4,13 +4,9 @@
 
 ### 方法1（Apple ID 更改国家）：
 首先注册中国大陆Apple ID，再更改成美国 Apple ID 即可，这种方法不需要开代理，不需要美国号码和填支付方式。<br/>
-视频教程：https://youtu.be/rFeJvozMaDk <br/>
+视频教程：https://youtu.be/pObtHYCRcrs <br/>
 注册地址：https://appleid.apple.com/account <br/>
 
-### 方法2（直接注册美国 Apple ID）
-需开启美国IP代理注册申请，不需要美国号码，也不需要填支付方式。<br/>
-视频教程：https://youtu.be/nhh8Y0If-GA <br/>
-注册地址：https://appleid.apple.com/account <br/>
 
 ### 注册事项
 注册美国 Apple ID 账号，填写的美国地址时，建议用美国免税州地址。<br/>
