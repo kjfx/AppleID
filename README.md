@@ -7,6 +7,8 @@
 视频教程：https://youtu.be/pObtHYCRcrs <br/>
 注册地址：https://appleid.apple.com/account <br/>
 
+如果你不想注册也可以购买账号：https://xintaistore.cf/
+
 
 ### 注册事项
 注册美国 Apple ID 账号，填写的美国地址时，建议用美国免税州地址。<br/>
