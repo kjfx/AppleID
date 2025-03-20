@@ -10,7 +10,7 @@
 
 
 ### 注册事项
-注册美国 Apple ID 账号，填写的美国地址时，建议用美国免税州地址。<br/>
+注册美国 Apple ID 账号，填写的美国地址时，建议用[美国免税州地址](https://www.kjfx.cc/780.html)。<br/>
 全美共有五个州面消费税，分别是Oregon（俄勒冈州），Alaska（阿拉斯加州），Delaware（特拉华州），Montana（蒙大拿州）和New Hampshire（新罕布什尔州）。 
 
 ### 如何购买美区 Apple Store 里的APP？
